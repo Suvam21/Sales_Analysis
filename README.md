@@ -3,6 +3,8 @@
   This jupyter notebook consist of analysis I made on a Amazon dataset(practice dataset) which includes cleaning of data and an effort to find ways for the company to make more profit by using Data Visualization and Data Analysis. The notebook also includes very well explained graphs for better understanding.
   The tools I used in this are Matplotlib, Pandas and Numpy. Also some packages from OS library.  
   
+  I have also included all the datasets that i used in the analysis.
+  
   Important Questions I answered are:   
   * WHich was the best month for sales and how much they earned that particular month?
   * What city sold the most product?
