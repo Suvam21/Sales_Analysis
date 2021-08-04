@@ -1,7 +1,6 @@
 # Sales Analysis
   
-  This jupyter notebook consist of analysis I made on a Amazon dataset(practice dataset) which includes cleaning of data and an effort to find ways for the company to make more profit.
-  by using Data Visualization and Data Analysis.  
+  This jupyter notebook consist of analysis I made on a Amazon dataset(practice dataset) which includes cleaning of data and an effort to find ways for the company to make more profit by using Data Visualization and Data Analysis. The notebook also includes very well explained graphs for better understanding.
   The tools I used in this are Matplotlib, Pandas and Numpy. Also some packages from OS library.  
   
   Important Questions I answered are:   
